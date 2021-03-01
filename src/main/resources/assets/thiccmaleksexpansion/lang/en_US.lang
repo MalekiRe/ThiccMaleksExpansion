@@ -1,0 +1,693 @@
+#en_US
+
+item.thiccmaleksexpansion.ingot.copper_ingot.name=Copper Ingot
+
+
+
+
+
+
+
+death.attack.basalz=%1$s had their world rocked!
+death.attack.blitz=%1$s was tragically enlightened!
+death.attack.blizz=%1$s met a frigid fate!
+death.attack.cryotheum.player=%1$s froze to death trying to escape %2$s!
+death.attack.cryotheum=%1$s froze to death!
+death.attack.flux.player=%1$s was Fluxed to death by %2$s!
+death.attack.flux=%1$s had their reality torn apart by Flux!
+death.attack.mana.player=%1$s ran into another state of being attempting to escape %2$s!
+death.attack.mana=%1$s was torn apart by raw Mana!
+death.attack.petrotheum.player=%1$s shattered while trying to escape %2$s!
+death.attack.petrotheum=%1$s got all shook up!
+death.attack.pyrotheum.player=%1$s burned alive trying to escape %2$s!
+death.attack.pyrotheum=%1$s mistook Pyrotheum for Water!
+
+entity.thiccmaleksexpansion.basalz.name=Basalz
+entity.thiccmaleksexpansion.blitz.name=Blitz
+entity.thiccmaleksexpansion.blizz.name=Blizz
+
+fluid.aerotheum=Zephyrean Aerotheum
+fluid.biocrude=Biocrude
+fluid.coal=Liquifacted Coal
+fluid.constantan=Molten Constantan
+fluid.creosote=Creosote Oil
+fluid.crude_oil=Crude Oil
+fluid.cryotheum=Gelid Cryotheum
+fluid.ender=Resonant Ender
+fluid.enderium=Molten Enderium
+fluid.experience=Essence of Knowledge
+fluid.glowstone=Energized Glowstone
+fluid.lumium=Molten Lumium
+fluid.invar=Molten Invar
+fluid.iridium=Molten Iridium
+fluid.mana=Primal Mana
+fluid.mushroom_stew=Mushroom Stew
+fluid.petrotheum=Tectonic Petrotheum
+fluid.platinum=Molten Platinum
+fluid.potion=Potion
+fluid.potion_lingering=Lingering Potion
+fluid.potion_splash=Splash Potion
+fluid.pyrotheum=Blazing Pyrotheum
+fluid.redstone=Destabilized Redstone
+fluid.refined_biofuel=Grassoline
+fluid.refined_fuel=Refined Fuel
+fluid.refined_oil=Naphtha
+fluid.resin=Resin
+fluid.sap=Sap
+fluid.seed_oil=Seed Oil
+fluid.signalum=Molten Signalum
+fluid.steam=Steam
+fluid.syrup=Syrup
+fluid.tree_oil=Tree Oil
+
+
+
+gui.thiccmaleksexpansion.lexicon.clearPreference=Clear Preference
+gui.thiccmaleksexpansion.lexicon.nextEntry=Next Entry
+gui.thiccmaleksexpansion.lexicon.prevEntry=Previous Entry
+gui.thiccmaleksexpansion.lexicon.search=Search
+gui.thiccmaleksexpansion.lexicon.setPreference=Set Preference
+gui.thiccmaleksexpansion.lexicon.singleEntry=Only One Entry
+gui.thiccmaleksexpansion.lexicon.study=Lexicon - Knowledge
+gui.thiccmaleksexpansion.lexicon.transmute=Lexicon - Transmutation
+
+info.thiccmaleksexpansion.diagram.erase=Use while sneaking to erase.
+info.thiccmaleksexpansion.diagram.redprint.0=Use on a block to copy its settings.
+info.thiccmaleksexpansion.diagram.redprint.1=Use on a block to transfer stored settings.
+
+info.thiccmaleksexpansion.offhandUse=Hold in offhand to automatically use when placing a block.
+
+info.thiccmaleksexpansion.security.lock=Use on securable blocks or combine with securable items.
+
+info.thiccmaleksexpansion.tome.experience.0=Stores experience within its pages.
+info.thiccmaleksexpansion.tome.experience.1=Use to store knowledge in the tome.
+info.thiccmaleksexpansion.tome.experience.2=Use while sneaking to retrieve stored knowledge.
+info.thiccmaleksexpansion.tome.experience.a.0=§bPress (%s) to enable auto-collect.§r
+info.thiccmaleksexpansion.tome.experience.a.1=§ePress (%s) to disable auto-collect.§r
+
+info.thiccmaleksexpansion.tome.lexicon.0=Converts items to equivalent forms.
+info.thiccmaleksexpansion.tome.lexicon.1=Also known as a Thesoreus.
+info.thiccmaleksexpansion.tome.lexicon.a.0=Right click (open) to study.
+info.thiccmaleksexpansion.tome.lexicon.a.1=Right click (open) to transmute items.
+info.thiccmaleksexpansion.tome.lexicon.b.0=§bPress (%s) to gain wisdom!§r
+info.thiccmaleksexpansion.tome.lexicon.b.1=§ePress (%s) to forsake knowledge.§r
+
+info.thiccmaleksexpansion.upgrade.creative.0=Converts a block to a Creative version.
+info.thiccmaleksexpansion.upgrade.creative.1=May be used on any tier of block.
+info.thiccmaleksexpansion.upgrade.full.0=Fully upgrades a block to a given tier.
+info.thiccmaleksexpansion.upgrade.full.1=May be used on any lower tier.
+info.thiccmaleksexpansion.upgrade.incremental.0=Incrementally upgrades a block.
+info.thiccmaleksexpansion.upgrade.incremental.1=Requires tier immediately preceding.
+
+info.thiccmaleksexpansion.util.multimeter.0=Provides information about things.
+info.thiccmaleksexpansion.util.multimeter.1=Use while sneaking to configure some blocks.
+info.thiccmaleksexpansion.util.wrench.0=Rotates and dismantles blocks.
+info.thiccmaleksexpansion.util.wrench.1=Actually a wrench, but anything is a hammer if you need it to be one.
+
+item.thiccmaleksexpansion.armor.aluminumBoots.name=Aluminum Boots
+item.thiccmaleksexpansion.armor.aluminumHelmet.name=Aluminum Helmet
+item.thiccmaleksexpansion.armor.aluminumLegs.name=Aluminum Leggings
+item.thiccmaleksexpansion.armor.aluminumChestplate.name=Aluminum Chestplate
+
+item.thiccmaleksexpansion.armor.bronzeBoots.name=Bronze Boots
+item.thiccmaleksexpansion.armor.bronzeHelmet.name=Bronze Helmet
+item.thiccmaleksexpansion.armor.bronzeLegs.name=Bronze Leggings
+item.thiccmaleksexpansion.armor.bronzeChestplate.name=Bronze Chestplate
+
+item.thiccmaleksexpansion.armor.constantanBoots.name=Constantan Boots
+item.thiccmaleksexpansion.armor.constantanHelmet.name=Constantan Helmet
+item.thiccmaleksexpansion.armor.constantanLegs.name=Constantan Leggings
+item.thiccmaleksexpansion.armor.constantanChestplate.name=Constantan Chestplate
+
+item.thiccmaleksexpansion.armor.copperBoots.name=Copper Boots
+item.thiccmaleksexpansion.armor.copperHelmet.name=Copper Helmet
+item.thiccmaleksexpansion.armor.copperLegs.name=Copper Leggings
+item.thiccmaleksexpansion.armor.copperChestplate.name=Copper Chestplate
+
+item.thiccmaleksexpansion.armor.electrumBoots.name=Electrum Boots
+item.thiccmaleksexpansion.armor.electrumHelmet.name=Electrum Helmet
+item.thiccmaleksexpansion.armor.electrumLegs.name=Electrum Leggings
+item.thiccmaleksexpansion.armor.electrumChestplate.name=Electrum Chestplate
+
+item.thiccmaleksexpansion.armor.invarBoots.name=Invar Boots
+item.thiccmaleksexpansion.armor.invarHelmet.name=Invar Helmet
+item.thiccmaleksexpansion.armor.invarLegs.name=Invar Leggings
+item.thiccmaleksexpansion.armor.invarChestplate.name=Invar Chestplate
+
+item.thiccmaleksexpansion.armor.leadBoots.name=Lead Boots
+item.thiccmaleksexpansion.armor.leadHelmet.name=Lead Helmet
+item.thiccmaleksexpansion.armor.leadLegs.name=Lead Leggings
+item.thiccmaleksexpansion.armor.leadChestplate.name=Lead Chestplate
+
+item.thiccmaleksexpansion.armor.nickelBoots.name=Nickel Boots
+item.thiccmaleksexpansion.armor.nickelHelmet.name=Nickel Helmet
+item.thiccmaleksexpansion.armor.nickelLegs.name=Nickel Leggings
+item.thiccmaleksexpansion.armor.nickelChestplate.name=Nickel Chestplate
+
+item.thiccmaleksexpansion.armor.platinumBoots.name=Platinum Boots
+item.thiccmaleksexpansion.armor.platinumHelmet.name=Platinum Helmet
+item.thiccmaleksexpansion.armor.platinumLegs.name=Platinum Leggings
+item.thiccmaleksexpansion.armor.platinumChestplate.name=Platinum Chestplate
+
+item.thiccmaleksexpansion.armor.silverBoots.name=Silver Boots
+item.thiccmaleksexpansion.armor.silverHelmet.name=Silver Helmet
+item.thiccmaleksexpansion.armor.silverLegs.name=Silver Leggings
+item.thiccmaleksexpansion.armor.silverChestplate.name=Silver Chestplate
+
+item.thiccmaleksexpansion.armor.steelBoots.name=Steel Boots
+item.thiccmaleksexpansion.armor.steelHelmet.name=Steel Helmet
+item.thiccmaleksexpansion.armor.steelLegs.name=Steel Leggings
+item.thiccmaleksexpansion.armor.steelChestplate.name=Steel Chestplate
+
+item.thiccmaleksexpansion.armor.tinBoots.name=Tin Boots
+item.thiccmaleksexpansion.armor.tinHelmet.name=Tin Helmet
+item.thiccmaleksexpansion.armor.tinLegs.name=Tin Leggings
+item.thiccmaleksexpansion.armor.tinChestplate.name=Tin Chestplate
+
+item.thiccmaleksexpansion.bait.baitBasic.name=Aqua-Chow
+item.thiccmaleksexpansion.bait.baitFlux.name=Fluxed Aqua-Chow
+item.thiccmaleksexpansion.bait.baitRich.name=Rich Aqua-Chow
+
+item.thiccmaleksexpansion.coin.coinAluminum.name=Aluminum Coin
+item.thiccmaleksexpansion.coin.coinBronze.name=Bronze Coin
+item.thiccmaleksexpansion.coin.coinConstantan.name=Constantan Coin
+item.thiccmaleksexpansion.coin.coinCopper.name=Copper Coin
+item.thiccmaleksexpansion.coin.coinElectrum.name=Electrum Coin
+item.thiccmaleksexpansion.coin.coinEnderium.name=Enderium Coin
+item.thiccmaleksexpansion.coin.coinGold.name=Gold Coin
+item.thiccmaleksexpansion.coin.coinInvar.name=Invar Coin
+item.thiccmaleksexpansion.coin.coinIridium.name=Iridium Coin
+item.thiccmaleksexpansion.coin.coinIron.name=Iron Coin
+item.thiccmaleksexpansion.coin.coinLead.name=Lead Coin
+item.thiccmaleksexpansion.coin.coinLumium.name=Lumium Coin
+item.thiccmaleksexpansion.coin.coinMithril.name=Mana Infused Coin
+item.thiccmaleksexpansion.coin.coinNickel.name=Nickel Coin
+item.thiccmaleksexpansion.coin.coinPlatinum.name=Platinum Coin
+item.thiccmaleksexpansion.coin.coinSignalum.name=Signalum Coin
+item.thiccmaleksexpansion.coin.coinSilver.name=Silver Coin
+item.thiccmaleksexpansion.coin.coinSteel.name=Steel Coin
+item.thiccmaleksexpansion.coin.coinTin.name=Tin Coin
+
+item.thiccmaleksexpansion.diagram.formula.name=Formula
+item.thiccmaleksexpansion.diagram.pattern.name=Pattern
+item.thiccmaleksexpansion.diagram.redprint.name=Redprint
+item.thiccmaleksexpansion.diagram.schematic.name=Schematic
+item.thiccmaleksexpansion.diagram.scroll.name=Scroll
+
+item.thiccmaleksexpansion.dye.dyeBlack.name=Black Pigment
+item.thiccmaleksexpansion.dye.dyeBlue.name=Blue Pigment
+item.thiccmaleksexpansion.dye.dyeBrown.name=Brown Pigment
+item.thiccmaleksexpansion.dye.dyeCyan.name=Cyan Pigment
+item.thiccmaleksexpansion.dye.dyeGray.name=Gray Pigment
+item.thiccmaleksexpansion.dye.dyeGreen.name=Green Pigment
+item.thiccmaleksexpansion.dye.dyeLightBlue.name=Light Blue Pigment
+item.thiccmaleksexpansion.dye.dyeLightGray.name=Light Gray Pigment
+item.thiccmaleksexpansion.dye.dyeLime.name=Lime Pigment
+item.thiccmaleksexpansion.dye.dyeMagenta.name=Magenta Pigment
+item.thiccmaleksexpansion.dye.dyeOrange.name=Orange Pigment
+item.thiccmaleksexpansion.dye.dyePink.name=Pink Pigment
+item.thiccmaleksexpansion.dye.dyePurple.name=Purple Pigment
+item.thiccmaleksexpansion.dye.dyeRed.name=Red Pigment
+item.thiccmaleksexpansion.dye.dyeWhite.name=White Pigment
+item.thiccmaleksexpansion.dye.dyeYellow.name=Yellow Pigment
+
+item.thiccmaleksexpansion.fertilizer.fertilizerBasic.name=Phyto-Gro
+item.thiccmaleksexpansion.fertilizer.fertilizerFlux.name=Fluxed Phyto-Gro
+item.thiccmaleksexpansion.fertilizer.fertilizerRich.name=Rich Phyto-Gro
+
+item.thiccmaleksexpansion.horseArmor.aluminum.name=Aluminum Horse Armor
+item.thiccmaleksexpansion.horseArmor.bronze.name=Bronze Horse Armor
+item.thiccmaleksexpansion.horseArmor.constantan.name=Constantan Horse Armor
+item.thiccmaleksexpansion.horseArmor.copper.name=Copper Horse Armor
+item.thiccmaleksexpansion.horseArmor.electrum.name=Electrum Horse Armor
+item.thiccmaleksexpansion.horseArmor.invar.name=Invar Horse Armor
+item.thiccmaleksexpansion.horseArmor.lead.name=Lead Horse Armor
+item.thiccmaleksexpansion.horseArmor.nickel.name=Nickel Horse Armor
+item.thiccmaleksexpansion.horseArmor.platinum.name=Platinum Horse Armor
+item.thiccmaleksexpansion.horseArmor.silver.name=Silver Horse Armor
+item.thiccmaleksexpansion.horseArmor.steel.name=Steel Horse Armor
+item.thiccmaleksexpansion.horseArmor.tin.name=Tin Horse Armor
+
+item.thiccmaleksexpansion.geode.geode.name=Geode
+
+
+
+item.thiccmaleksexpansion.material.crystalCinnabar.name=Cinnabar
+item.thiccmaleksexpansion.material.crystalCrudeOil.name=Bitumen
+item.thiccmaleksexpansion.material.crystalEnder.name=Resonant Clathrate
+item.thiccmaleksexpansion.material.crystalGlowstone.name=Energized Clathrate
+item.thiccmaleksexpansion.material.crystalRedstone.name=Destabilized Clathrate
+item.thiccmaleksexpansion.material.crystalSlag.name=Slag
+item.thiccmaleksexpansion.material.crystalSlagRich.name=Rich Slag
+
+item.thiccmaleksexpansion.material.dustAerotheum.name=Aerotheum Dust
+item.thiccmaleksexpansion.material.dustAluminum.name=Pulverized Aluminum
+item.thiccmaleksexpansion.material.dustBasalz.name=Basalz Powder
+item.thiccmaleksexpansion.material.dustBioblend.name=Pulped Bioblend
+item.thiccmaleksexpansion.material.dustBioblendRich.name=Rich Bioblend
+item.thiccmaleksexpansion.material.dustBiomass.name=Pulped Biomass
+item.thiccmaleksexpansion.material.dustBiomassRich.name=Rich Biomass
+item.thiccmaleksexpansion.material.dustBlitz.name=Blitz Powder
+item.thiccmaleksexpansion.material.dustBlizz.name=Blizz Powder
+item.thiccmaleksexpansion.material.dustBronze.name=Bronze Blend
+item.thiccmaleksexpansion.material.dustCharcoal.name=Pulverized Charcoal
+item.thiccmaleksexpansion.material.dustCoal.name=Pulverized Coal
+item.thiccmaleksexpansion.material.dustConstantan.name=Constantan Blend
+item.thiccmaleksexpansion.material.dustCopper.name=Pulverized Copper
+item.thiccmaleksexpansion.material.dustCryotheum.name=Cryotheum Dust
+item.thiccmaleksexpansion.material.dustElectrum.name=Electrum Blend
+item.thiccmaleksexpansion.material.dustEnderium.name=Enderium Blend
+item.thiccmaleksexpansion.material.dustGold.name=Pulverized Gold
+item.thiccmaleksexpansion.material.dustInvar.name=Invar Blend
+item.thiccmaleksexpansion.material.dustIridium.name=Pulverized Iridium
+item.thiccmaleksexpansion.material.dustIron.name=Pulverized Iron
+item.thiccmaleksexpansion.material.dustLead.name=Pulverized Lead
+item.thiccmaleksexpansion.material.dustLumium.name=Lumium Blend
+item.thiccmaleksexpansion.material.dustMana.name=Mana Dust
+item.thiccmaleksexpansion.material.dustMithril.name=Pulverized Mana Infused Metal
+item.thiccmaleksexpansion.material.dustNickel.name=Pulverized Nickel
+item.thiccmaleksexpansion.material.dustNiter.name=Niter
+item.thiccmaleksexpansion.material.dustObsidian.name=Pulverized Obsidian
+item.thiccmaleksexpansion.material.dustPetrotheum.name=Petrotheum Dust
+item.thiccmaleksexpansion.material.dustPlatinum.name=Pulverized Platinum
+item.thiccmaleksexpansion.material.dustPyrotheum.name=Pyrotheum Dust
+item.thiccmaleksexpansion.material.dustSignalum.name=Signalum Blend
+item.thiccmaleksexpansion.material.dustSilver.name=Pulverized Silver
+item.thiccmaleksexpansion.material.dustSteel.name=Steel Blend
+item.thiccmaleksexpansion.material.dustSulfur.name=Sulfur
+item.thiccmaleksexpansion.material.dustTin.name=Pulverized Tin
+item.thiccmaleksexpansion.material.dustWood.name=Sawdust
+item.thiccmaleksexpansion.material.dustWoodCompressed.name=Compressed Sawdust
+
+item.thiccmaleksexpansion.material.fuelCoke.name=Coal Coke
+
+item.thiccmaleksexpansion.material.gearAluminum.name=Aluminum Gear
+item.thiccmaleksexpansion.material.gearBronze.name=Bronze Gear
+item.thiccmaleksexpansion.material.gearConstantan.name=Constantan Gear
+item.thiccmaleksexpansion.material.gearCopper.name=Copper Gear
+item.thiccmaleksexpansion.material.gearDiamond.name=Diamond Gear
+item.thiccmaleksexpansion.material.gearElectrum.name=Electrum Gear
+item.thiccmaleksexpansion.material.gearEmerald.name=Emerald Gear
+item.thiccmaleksexpansion.material.gearEnderium.name=Enderium Gear
+item.thiccmaleksexpansion.material.gearGold.name=Gold Gear
+item.thiccmaleksexpansion.material.gearInvar.name=Invar Gear
+item.thiccmaleksexpansion.material.gearIridium.name=Iridium Gear
+item.thiccmaleksexpansion.material.gearIron.name=Iron Gear
+item.thiccmaleksexpansion.material.gearLead.name=Lead Gear
+item.thiccmaleksexpansion.material.gearLumium.name=Lumium Gear
+item.thiccmaleksexpansion.material.gearMithril.name=Mana Infused Gear
+item.thiccmaleksexpansion.material.gearNickel.name=Nickel Gear
+item.thiccmaleksexpansion.material.gearPlatinum.name=Platinum Gear
+item.thiccmaleksexpansion.material.gearSignalum.name=Signalum Gear
+item.thiccmaleksexpansion.material.gearSilver.name=Silver Gear
+item.thiccmaleksexpansion.material.gearSteel.name=Steel Gear
+item.thiccmaleksexpansion.material.gearStone.name=Stone Gear
+item.thiccmaleksexpansion.material.gearTin.name=Tin Gear
+item.thiccmaleksexpansion.material.gearWood.name=Wooden Gear
+
+item.thiccmaleksexpansion.material.globRosin.name=Rosin
+item.thiccmaleksexpansion.material.globTar.name=Tar
+
+item.thiccmaleksexpansion.material.ingotAluminum.name=Aluminum Ingot
+item.thiccmaleksexpansion.material.ingotBronze.name=Bronze Ingot
+item.thiccmaleksexpansion.material.ingotConstantan.name=Constantan Ingot
+item.thiccmaleksexpansion.material.ingotCopper.name=Copper Ingot
+item.thiccmaleksexpansion.material.ingotElectrum.name=Electrum Ingot
+item.thiccmaleksexpansion.material.ingotEnderium.name=Enderium Ingot
+item.thiccmaleksexpansion.material.ingotInvar.name=Invar Ingot
+item.thiccmaleksexpansion.material.ingotIridium.name=Iridium Ingot
+item.thiccmaleksexpansion.material.ingotLead.name=Lead Ingot
+item.thiccmaleksexpansion.material.ingotLumium.name=Lumium Ingot
+item.thiccmaleksexpansion.material.ingotMithril.name=Mana Infused Ingot
+item.thiccmaleksexpansion.material.ingotNickel.name=Nickel Ingot
+item.thiccmaleksexpansion.material.ingotPlatinum.name=Platinum Ingot
+item.thiccmaleksexpansion.material.ingotSignalum.name=Signalum Ingot
+item.thiccmaleksexpansion.material.ingotSilver.name=Silver Ingot
+item.thiccmaleksexpansion.material.ingotSteel.name=Steel Ingot
+item.thiccmaleksexpansion.material.ingotTin.name=Tin Ingot
+
+item.thiccmaleksexpansion.material.nuggetAluminum.name=Aluminum Nugget
+item.thiccmaleksexpansion.material.nuggetBronze.name=Bronze Nugget
+item.thiccmaleksexpansion.material.nuggetConstantan.name=Constantan Nugget
+item.thiccmaleksexpansion.material.nuggetCopper.name=Copper Nugget
+item.thiccmaleksexpansion.material.nuggetDiamond.name=Diamond Nugget
+item.thiccmaleksexpansion.material.nuggetEmerald.name=Emerald Nugget
+item.thiccmaleksexpansion.material.nuggetElectrum.name=Electrum Nugget
+item.thiccmaleksexpansion.material.nuggetEnderium.name=Enderium Nugget
+item.thiccmaleksexpansion.material.nuggetInvar.name=Invar Nugget
+item.thiccmaleksexpansion.material.nuggetIron.name=Iron Nugget
+item.thiccmaleksexpansion.material.nuggetIridium.name=Iridium Nugget
+item.thiccmaleksexpansion.material.nuggetLead.name=Lead Nugget
+item.thiccmaleksexpansion.material.nuggetLumium.name=Lumium Nugget
+item.thiccmaleksexpansion.material.nuggetMithril.name=Mana Infused Nugget
+item.thiccmaleksexpansion.material.nuggetNickel.name=Nickel Nugget
+item.thiccmaleksexpansion.material.nuggetPlatinum.name=Platinum Nugget
+item.thiccmaleksexpansion.material.nuggetSignalum.name=Signalum Nugget
+item.thiccmaleksexpansion.material.nuggetSilver.name=Silver Nugget
+item.thiccmaleksexpansion.material.nuggetSteel.name=Steel Nugget
+item.thiccmaleksexpansion.material.nuggetTin.name=Tin Nugget
+
+item.thiccmaleksexpansion.material.partDrillHead.name=Drill Head
+item.thiccmaleksexpansion.material.partSawBlade.name=Saw Blade
+item.thiccmaleksexpansion.material.partToolCasing.name=Tool Casing
+
+item.thiccmaleksexpansion.material.plateAluminum.name=Aluminum Plate
+item.thiccmaleksexpansion.material.plateBronze.name=Bronze Plate
+item.thiccmaleksexpansion.material.plateConstantan.name=Constantan Plate
+item.thiccmaleksexpansion.material.plateCopper.name=Copper Plate
+item.thiccmaleksexpansion.material.plateElectrum.name=Electrum Plate
+item.thiccmaleksexpansion.material.plateEnderium.name=Enderium Plate
+item.thiccmaleksexpansion.material.plateGold.name=Gold Plate
+item.thiccmaleksexpansion.material.plateInvar.name=Invar Plate
+item.thiccmaleksexpansion.material.plateIridium.name=Iridium Plate
+item.thiccmaleksexpansion.material.plateIron.name=Iron Plate
+item.thiccmaleksexpansion.material.plateLead.name=Lead Plate
+item.thiccmaleksexpansion.material.plateLumium.name=Lumium Plate
+item.thiccmaleksexpansion.material.plateMithril.name=Mana Infused Plate
+item.thiccmaleksexpansion.material.plateNickel.name=Nickel Plate
+item.thiccmaleksexpansion.material.platePlatinum.name=Platinum Plate
+item.thiccmaleksexpansion.material.plateSignalum.name=Signalum Plate
+item.thiccmaleksexpansion.material.plateSilver.name=Silver Plate
+item.thiccmaleksexpansion.material.plateSteel.name=Steel Plate
+item.thiccmaleksexpansion.material.plateTin.name=Tin Plate
+
+item.thiccmaleksexpansion.material.powerCoilElectrum.name=Redstone Conductance Coil
+item.thiccmaleksexpansion.material.powerCoilGold.name=Redstone Reception Coil
+item.thiccmaleksexpansion.material.powerCoilSilver.name=Redstone Transmission Coil
+item.thiccmaleksexpansion.material.redstoneServo.name=Redstone Servo
+
+item.thiccmaleksexpansion.material.rodBasalz.name=Basalz Rod
+item.thiccmaleksexpansion.material.rodBlitz.name=Blitz Rod
+item.thiccmaleksexpansion.material.rodBlizz.name=Blizz Rod
+
+item.thiccmaleksexpansion.tome.experience.name=Tome of Knowledge
+item.thiccmaleksexpansion.tome.lexicon.name=Forge Lexicon
+
+item.thiccmaleksexpansion.tool.aluminumAxe.name=Aluminum Axe
+item.thiccmaleksexpansion.tool.aluminumBow.name=Aluminum Reinforced Bow
+item.thiccmaleksexpansion.tool.aluminumExcavator.name=Aluminum Excavator
+item.thiccmaleksexpansion.tool.aluminumFishingRod.name=Aluminum Fishing Rod
+item.thiccmaleksexpansion.tool.aluminumHammer.name=Aluminum Hammer
+item.thiccmaleksexpansion.tool.aluminumHoe.name=Aluminum Hoe
+item.thiccmaleksexpansion.tool.aluminumPickaxe.name=Aluminum Pickaxe
+item.thiccmaleksexpansion.tool.aluminumShears.name=Aluminum Shears
+item.thiccmaleksexpansion.tool.aluminumShield.name=Aluminum Shield
+item.thiccmaleksexpansion.tool.aluminumShovel.name=Aluminum Shovel
+item.thiccmaleksexpansion.tool.aluminumSickle.name=Aluminum Sickle
+item.thiccmaleksexpansion.tool.aluminumSword.name=Aluminum Sword
+
+item.thiccmaleksexpansion.tool.bronzeAxe.name=Bronze Axe
+item.thiccmaleksexpansion.tool.bronzeBow.name=Bronze Reinforced Bow
+item.thiccmaleksexpansion.tool.bronzeExcavator.name=Bronze Excavator
+item.thiccmaleksexpansion.tool.bronzeFishingRod.name=Bronze Fishing Rod
+item.thiccmaleksexpansion.tool.bronzeHammer.name=Bronze Hammer
+item.thiccmaleksexpansion.tool.bronzeHoe.name=Bronze Hoe
+item.thiccmaleksexpansion.tool.bronzePickaxe.name=Bronze Pickaxe
+item.thiccmaleksexpansion.tool.bronzeShears.name=Bronze Shears
+item.thiccmaleksexpansion.tool.bronzeShield.name=Bronze Shield
+item.thiccmaleksexpansion.tool.bronzeShovel.name=Bronze Shovel
+item.thiccmaleksexpansion.tool.bronzeSickle.name=Bronze Sickle
+item.thiccmaleksexpansion.tool.bronzeSword.name=Bronze Sword
+
+item.thiccmaleksexpansion.tool.constantanAxe.name=Constantan Axe
+item.thiccmaleksexpansion.tool.constantanBow.name=Constantan Reinforced Bow
+item.thiccmaleksexpansion.tool.constantanExcavator.name=Constantan Excavator
+item.thiccmaleksexpansion.tool.constantanFishingRod.name=Constantan Fishing Rod
+item.thiccmaleksexpansion.tool.constantanHammer.name=Constantan Hammer
+item.thiccmaleksexpansion.tool.constantanHoe.name=Constantan Hoe
+item.thiccmaleksexpansion.tool.constantanPickaxe.name=Constantan Pickaxe
+item.thiccmaleksexpansion.tool.constantanShears.name=Constantan Shears
+item.thiccmaleksexpansion.tool.constantanShield.name=Constantan Shield
+item.thiccmaleksexpansion.tool.constantanShovel.name=Constantan Shovel
+item.thiccmaleksexpansion.tool.constantanSickle.name=Constantan Sickle
+item.thiccmaleksexpansion.tool.constantanSword.name=Constantan Sword
+
+item.thiccmaleksexpansion.tool.copperAxe.name=Copper Axe
+item.thiccmaleksexpansion.tool.copperBow.name=Copper Reinforced Bow
+item.thiccmaleksexpansion.tool.copperExcavator.name=Copper Excavator
+item.thiccmaleksexpansion.tool.copperFishingRod.name=Copper Fishing Rod
+item.thiccmaleksexpansion.tool.copperHammer.name=Copper Hammer
+item.thiccmaleksexpansion.tool.copperHoe.name=Copper Hoe
+item.thiccmaleksexpansion.tool.copperPickaxe.name=Copper Pickaxe
+item.thiccmaleksexpansion.tool.copperShears.name=Copper Shears
+item.thiccmaleksexpansion.tool.copperShield.name=Copper Shield
+item.thiccmaleksexpansion.tool.copperShovel.name=Copper Shovel
+item.thiccmaleksexpansion.tool.copperSickle.name=Copper Sickle
+item.thiccmaleksexpansion.tool.copperSword.name=Copper Sword
+
+item.thiccmaleksexpansion.tool.diamondBow.name=Diamond Reinforced Bow
+item.thiccmaleksexpansion.tool.diamondExcavator.name=Diamond Excavator
+item.thiccmaleksexpansion.tool.diamondFishingRod.name=Diamond Fishing Rod
+item.thiccmaleksexpansion.tool.diamondHammer.name=Diamond Hammer
+item.thiccmaleksexpansion.tool.diamondShears.name=Diamond Shears
+item.thiccmaleksexpansion.tool.diamondShield.name=Diamond Shield
+item.thiccmaleksexpansion.tool.diamondSickle.name=Diamond Sickle
+
+item.thiccmaleksexpansion.tool.electrumAxe.name=Electrum Axe
+item.thiccmaleksexpansion.tool.electrumBow.name=Electrum Reinforced Bow
+item.thiccmaleksexpansion.tool.electrumExcavator.name=Electrum Excavator
+item.thiccmaleksexpansion.tool.electrumFishingRod.name=Electrum Fishing Rod
+item.thiccmaleksexpansion.tool.electrumHammer.name=Electrum Hammer
+item.thiccmaleksexpansion.tool.electrumHoe.name=Electrum Hoe
+item.thiccmaleksexpansion.tool.electrumPickaxe.name=Electrum Pickaxe
+item.thiccmaleksexpansion.tool.electrumShears.name=Electrum Shears
+item.thiccmaleksexpansion.tool.electrumShield.name=Electrum Shield
+item.thiccmaleksexpansion.tool.electrumShovel.name=Electrum Shovel
+item.thiccmaleksexpansion.tool.electrumSickle.name=Electrum Sickle
+item.thiccmaleksexpansion.tool.electrumSword.name=Electrum Sword
+
+item.thiccmaleksexpansion.tool.goldBow.name=Gold Reinforced Bow
+item.thiccmaleksexpansion.tool.goldExcavator.name=Gold Excavator
+item.thiccmaleksexpansion.tool.goldFishingRod.name=Gold Fishing Rod
+item.thiccmaleksexpansion.tool.goldHammer.name=Gold Hammer
+item.thiccmaleksexpansion.tool.goldShears.name=Gold Shears
+item.thiccmaleksexpansion.tool.goldShield.name=Gold Shield
+item.thiccmaleksexpansion.tool.goldSickle.name=Gold Sickle
+
+item.thiccmaleksexpansion.tool.invarAxe.name=Invar Axe
+item.thiccmaleksexpansion.tool.invarBow.name=Invar Reinforced Bow
+item.thiccmaleksexpansion.tool.invarExcavator.name=Invar Excavator
+item.thiccmaleksexpansion.tool.invarFishingRod.name=Invar Fishing Rod
+item.thiccmaleksexpansion.tool.invarHammer.name=Invar Hammer
+item.thiccmaleksexpansion.tool.invarHoe.name=Invar Hoe
+item.thiccmaleksexpansion.tool.invarPickaxe.name=Invar Pickaxe
+item.thiccmaleksexpansion.tool.invarShears.name=Invar Shears
+item.thiccmaleksexpansion.tool.invarShield.name=Invar Shield
+item.thiccmaleksexpansion.tool.invarShovel.name=Invar Shovel
+item.thiccmaleksexpansion.tool.invarSickle.name=Invar Sickle
+item.thiccmaleksexpansion.tool.invarSword.name=Invar Sword
+
+item.thiccmaleksexpansion.tool.ironBow.name=Iron Reinforced Bow
+item.thiccmaleksexpansion.tool.ironExcavator.name=Iron Excavator
+item.thiccmaleksexpansion.tool.ironFishingRod.name=Iron Fishing Rod
+item.thiccmaleksexpansion.tool.ironHammer.name=Iron Hammer
+item.thiccmaleksexpansion.tool.ironShears.name=Iron Shears
+item.thiccmaleksexpansion.tool.ironShield.name=Iron Shield
+item.thiccmaleksexpansion.tool.ironSickle.name=Iron Sickle
+
+item.thiccmaleksexpansion.tool.leadAxe.name=Lead Axe
+item.thiccmaleksexpansion.tool.leadBow.name=Lead Reinforced Bow
+item.thiccmaleksexpansion.tool.leadExcavator.name=Lead Excavator
+item.thiccmaleksexpansion.tool.leadFishingRod.name=Lead Fishing Rod
+item.thiccmaleksexpansion.tool.leadHammer.name=Lead Hammer
+item.thiccmaleksexpansion.tool.leadHoe.name=Lead Hoe
+item.thiccmaleksexpansion.tool.leadPickaxe.name=Lead Pickaxe
+item.thiccmaleksexpansion.tool.leadShears.name=Lead Shears
+item.thiccmaleksexpansion.tool.leadShield.name=Lead Shield
+item.thiccmaleksexpansion.tool.leadShovel.name=Lead Shovel
+item.thiccmaleksexpansion.tool.leadSickle.name=Lead Sickle
+item.thiccmaleksexpansion.tool.leadSword.name=Lead Sword
+
+item.thiccmaleksexpansion.tool.nickelAxe.name=Nickel Axe
+item.thiccmaleksexpansion.tool.nickelBow.name=Nickel Reinforced Bow
+item.thiccmaleksexpansion.tool.nickelExcavator.name=Nickel Excavator
+item.thiccmaleksexpansion.tool.nickelFishingRod.name=Nickel Fishing Rod
+item.thiccmaleksexpansion.tool.nickelHammer.name=Nickel Hammer
+item.thiccmaleksexpansion.tool.nickelHoe.name=Nickel Hoe
+item.thiccmaleksexpansion.tool.nickelPickaxe.name=Nickel Pickaxe
+item.thiccmaleksexpansion.tool.nickelShears.name=Nickel Shears
+item.thiccmaleksexpansion.tool.nickelShield.name=Nickel Shield
+item.thiccmaleksexpansion.tool.nickelShovel.name=Nickel Shovel
+item.thiccmaleksexpansion.tool.nickelSickle.name=Nickel Sickle
+item.thiccmaleksexpansion.tool.nickelSword.name=Nickel Sword
+
+item.thiccmaleksexpansion.tool.platinumAxe.name=Platinum Axe
+item.thiccmaleksexpansion.tool.platinumBow.name=Platinum Reinforced Bow
+item.thiccmaleksexpansion.tool.platinumExcavator.name=Platinum Excavator
+item.thiccmaleksexpansion.tool.platinumFishingRod.name=Platinum Fishing Rod
+item.thiccmaleksexpansion.tool.platinumHammer.name=Platinum Hammer
+item.thiccmaleksexpansion.tool.platinumHoe.name=Platinum Hoe
+item.thiccmaleksexpansion.tool.platinumPickaxe.name=Platinum Pickaxe
+item.thiccmaleksexpansion.tool.platinumShears.name=Platinum Shears
+item.thiccmaleksexpansion.tool.platinumShield.name=Platinum Shield
+item.thiccmaleksexpansion.tool.platinumShovel.name=Platinum Shovel
+item.thiccmaleksexpansion.tool.platinumSickle.name=Platinum Sickle
+item.thiccmaleksexpansion.tool.platinumSword.name=Platinum Sword
+
+item.thiccmaleksexpansion.tool.silverAxe.name=Silver Axe
+item.thiccmaleksexpansion.tool.silverBow.name=Silver Reinforced Bow
+item.thiccmaleksexpansion.tool.silverExcavator.name=Silver Excavator
+item.thiccmaleksexpansion.tool.silverFishingRod.name=Silver Fishing Rod
+item.thiccmaleksexpansion.tool.silverHammer.name=Silver Hammer
+item.thiccmaleksexpansion.tool.silverHoe.name=Silver Hoe
+item.thiccmaleksexpansion.tool.silverPickaxe.name=Silver Pickaxe
+item.thiccmaleksexpansion.tool.silverShears.name=Silver Shears
+item.thiccmaleksexpansion.tool.silverShield.name=Silver Shield
+item.thiccmaleksexpansion.tool.silverShovel.name=Silver Shovel
+item.thiccmaleksexpansion.tool.silverSickle.name=Silver Sickle
+item.thiccmaleksexpansion.tool.silverSword.name=Silver Sword
+
+item.thiccmaleksexpansion.tool.steelAxe.name=Steel Axe
+item.thiccmaleksexpansion.tool.steelBow.name=Steel Reinforced Bow
+item.thiccmaleksexpansion.tool.steelExcavator.name=Steel Excavator
+item.thiccmaleksexpansion.tool.steelFishingRod.name=Steel Fishing Rod
+item.thiccmaleksexpansion.tool.steelHammer.name=Steel Hammer
+item.thiccmaleksexpansion.tool.steelHoe.name=Steel Hoe
+item.thiccmaleksexpansion.tool.steelPickaxe.name=Steel Pickaxe
+item.thiccmaleksexpansion.tool.steelShears.name=Steel Shears
+item.thiccmaleksexpansion.tool.steelShield.name=Steel Shield
+item.thiccmaleksexpansion.tool.steelShovel.name=Steel Shovel
+item.thiccmaleksexpansion.tool.steelSickle.name=Steel Sickle
+item.thiccmaleksexpansion.tool.steelSword.name=Steel Sword
+
+item.thiccmaleksexpansion.tool.stoneBow.name=Stone Reinforced Bow
+item.thiccmaleksexpansion.tool.stoneExcavator.name=Stone Excavator
+item.thiccmaleksexpansion.tool.stoneFishingRod.name=Stone Fishing Rod
+item.thiccmaleksexpansion.tool.stoneHammer.name=Stone Hammer
+item.thiccmaleksexpansion.tool.stoneShears.name=Stone Shears
+item.thiccmaleksexpansion.tool.stoneShield.name=Stone Shield
+item.thiccmaleksexpansion.tool.stoneSickle.name=Stone Sickle
+
+item.thiccmaleksexpansion.tool.tinAxe.name=Tin Axe
+item.thiccmaleksexpansion.tool.tinBow.name=Tin Reinforced Bow
+item.thiccmaleksexpansion.tool.tinExcavator.name=Tin Excavator
+item.thiccmaleksexpansion.tool.tinFishingRod.name=Tin Fishing Rod
+item.thiccmaleksexpansion.tool.tinHammer.name=Tin Hammer
+item.thiccmaleksexpansion.tool.tinHoe.name=Tin Hoe
+item.thiccmaleksexpansion.tool.tinPickaxe.name=Tin Pickaxe
+item.thiccmaleksexpansion.tool.tinShears.name=Tin Shears
+item.thiccmaleksexpansion.tool.tinShield.name=Tin Shield
+item.thiccmaleksexpansion.tool.tinShovel.name=Tin Shovel
+item.thiccmaleksexpansion.tool.tinSickle.name=Tin Sickle
+item.thiccmaleksexpansion.tool.tinSword.name=Tin Sword
+
+item.thiccmaleksexpansion.tool.woodExcavator.name=Wooden Excavator
+item.thiccmaleksexpansion.tool.woodHammer.name=Wooden Hammer
+item.thiccmaleksexpansion.tool.woodShears.name=Wooden Shears
+item.thiccmaleksexpansion.tool.woodShield.name=Wooden Shield
+item.thiccmaleksexpansion.tool.woodSickle.name=Wooden Sickle
+
+item.thiccmaleksexpansion.upgrade.creative.name=Creative Conversion Kit
+item.thiccmaleksexpansion.upgrade.full1.name=Hardened Conversion Kit
+item.thiccmaleksexpansion.upgrade.full2.name=Reinforced Conversion Kit
+item.thiccmaleksexpansion.upgrade.full3.name=Signalum Conversion Kit
+item.thiccmaleksexpansion.upgrade.full4.name=Resonant Conversion Kit
+item.thiccmaleksexpansion.upgrade.incremental1.name=Hardened Upgrade Kit
+item.thiccmaleksexpansion.upgrade.incremental2.name=Reinforced Upgrade Kit
+item.thiccmaleksexpansion.upgrade.incremental3.name=Signalum Upgrade Kit
+item.thiccmaleksexpansion.upgrade.incremental4.name=Resonant Upgrade Kit
+
+item.thiccmaleksexpansion.util.lock.name=Signalum Security Lock
+item.thiccmaleksexpansion.util.multimeter.name=Multimeter
+item.thiccmaleksexpansion.util.wrench0.name=Crescent Hammer
+item.thiccmaleksexpansion.util.wrench1.name=Crescent Hammer (Hardened)
+item.thiccmaleksexpansion.util.wrench2.name=Crescent Hammer (Reinforced)
+item.thiccmaleksexpansion.util.wrench3.name=Crescent Hammer (Signalum)
+item.thiccmaleksexpansion.util.wrench4.name=Crescent Hammer (Resonant)
+
+itemGroup.thiccmaleksexpansion.creativeTab=Thermal Foundation
+itemGroup.thiccmaleksexpansion.creativeTabArmor=Thermal Foundation: Armor
+itemGroup.thiccmaleksexpansion.creativeTabTools=Thermal Foundation: Tools
+itemGroup.thiccmaleksexpansion.creativeTabUtils=Thermal Foundation: Utilities
+
+itemGroup.thermalseries.creativeTabBlocks=Thermal Series: Blocks
+itemGroup.thermalseries.creativeTabItems=Thermal Series: Items
+itemGroup.thermalseries.creativeTabMisc=Thermal Series: Miscellaneous
+itemGroup.thermalseries.creativeTabTools=Thermal Series: Tools
+itemGroup.thermalseries.creativeTabUtils=Thermal Series: Utilities
+
+tab.thiccmaleksexpansion.lexicon.study.0=Consult the knowledge of the world and alter your personal destiny.
+tab.thiccmaleksexpansion.lexicon.study.1=Empower the Lexicon to force the world to obey your choices.
+tab.thiccmaleksexpansion.lexicon.transmute.0=Transmute equivalent items according to an arcane set of rules laid down by higher powers.
+tab.thiccmaleksexpansion.lexicon.transmute.1=Quell the Lexicon to relinquish mastery over the world.
+
+tile.thiccmaleksexpansion.fluid.aerotheum.name=Zephyrean Aerotheum
+tile.thiccmaleksexpansion.fluid.crude_oil.name=Crude Oil
+tile.thiccmaleksexpansion.fluid.cryotheum.name=Gelid Cryotheum
+tile.thiccmaleksexpansion.fluid.ender.name=Resonant Ender
+tile.thiccmaleksexpansion.fluid.glowstone.name=Energized Glowstone
+tile.thiccmaleksexpansion.fluid.mana.name=Primal Mana
+tile.thiccmaleksexpansion.fluid.petrotheum.name=Tectonic Petrotheum
+tile.thiccmaleksexpansion.fluid.pyrotheum.name=Blazing Pyrotheum
+tile.thiccmaleksexpansion.fluid.redstone.name=Destabilized Redstone
+
+tile.thiccmaleksexpansion.glass.aluminum.name=Hardened Aluminum Glass
+tile.thiccmaleksexpansion.glass.bronze.name=Hardened Bronze Glass
+tile.thiccmaleksexpansion.glass.constantan.name=Hardened Constantan Glass
+tile.thiccmaleksexpansion.glass.copper.name=Hardened Copper Glass
+tile.thiccmaleksexpansion.glass.electrum.name=Hardened Electrum Glass
+tile.thiccmaleksexpansion.glass.enderium.name=Hardened Enderium Glass
+tile.thiccmaleksexpansion.glass.invar.name=Hardened Invar Glass
+tile.thiccmaleksexpansion.glass.iridium.name=Hardened Iridium Glass
+tile.thiccmaleksexpansion.glass.lead.name=Hardened Glass
+tile.thiccmaleksexpansion.glass.lumium.name=Hardened Lumium Glass
+tile.thiccmaleksexpansion.glass.mithril.name=Hardened Mana Infused Glass
+tile.thiccmaleksexpansion.glass.nickel.name=Hardened Nickel Glass
+tile.thiccmaleksexpansion.glass.platinum.name=Hardened Platinum Glass
+tile.thiccmaleksexpansion.glass.signalum.name=Hardened Signalum Glass
+tile.thiccmaleksexpansion.glass.silver.name=Hardened Silver Glass
+tile.thiccmaleksexpansion.glass.steel.name=Hardened Steel Glass
+tile.thiccmaleksexpansion.glass.tin.name=Hardened Tin Glass
+
+tile.thiccmaleksexpansion.ore.aluminum.name=Aluminum Ore
+tile.thiccmaleksexpansion.ore.copper.name=Copper Ore
+tile.thiccmaleksexpansion.ore.crude_oil_gravel.name=Oil Shale
+tile.thiccmaleksexpansion.ore.crude_oil_red_sand.name=Oil Sand
+tile.thiccmaleksexpansion.ore.crude_oil_sand.name=Oil Sand
+tile.thiccmaleksexpansion.ore.ender.name=Resonant End Stone
+tile.thiccmaleksexpansion.ore.glowstone.name=Energized Netherrack
+tile.thiccmaleksexpansion.ore.lead.name=Lead Ore
+tile.thiccmaleksexpansion.ore.iridium.name=Iridium Ore
+tile.thiccmaleksexpansion.ore.mithril.name=Mana Infused Ore
+tile.thiccmaleksexpansion.ore.nickel.name=Nickel Ore
+tile.thiccmaleksexpansion.ore.platinum.name=Platinum Ore
+tile.thiccmaleksexpansion.ore.redstone.name=Destabilized Redstone Ore
+tile.thiccmaleksexpansion.ore.silver.name=Silver Ore
+tile.thiccmaleksexpansion.ore.tin.name=Tin Ore
+
+tile.thiccmaleksexpansion.rockwool.black.name=Black Rockwool
+tile.thiccmaleksexpansion.rockwool.blue.name=Blue Rockwool
+tile.thiccmaleksexpansion.rockwool.brown.name=Brown Rockwool
+tile.thiccmaleksexpansion.rockwool.cyan.name=Cyan Rockwool
+tile.thiccmaleksexpansion.rockwool.gray.name=Gray Rockwool
+tile.thiccmaleksexpansion.rockwool.green.name=Green Rockwool
+tile.thiccmaleksexpansion.rockwool.light_blue.name=Light Blue Rockwool
+tile.thiccmaleksexpansion.rockwool.lime.name=Lime Rockwool
+tile.thiccmaleksexpansion.rockwool.magenta.name=Magenta Rockwool
+tile.thiccmaleksexpansion.rockwool.orange.name=Orange Rockwool
+tile.thiccmaleksexpansion.rockwool.pink.name=Pink Rockwool
+tile.thiccmaleksexpansion.rockwool.purple.name=Purple Rockwool
+tile.thiccmaleksexpansion.rockwool.red.name=Red Rockwool
+tile.thiccmaleksexpansion.rockwool.silver.name=Light Gray Rockwool
+tile.thiccmaleksexpansion.rockwool.white.name=White Rockwool
+tile.thiccmaleksexpansion.rockwool.yellow.name=Yellow Rockwool
+
+tile.thiccmaleksexpansion.storage.aluminum.name=Block of Aluminum
+tile.thiccmaleksexpansion.storage.bronze.name=Block of Bronze
+tile.thiccmaleksexpansion.storage.charcoal.name=Block of Charcoal
+tile.thiccmaleksexpansion.storage.coke.name=Block of Coal Coke
+tile.thiccmaleksexpansion.storage.constantan.name=Block of Constantan
+tile.thiccmaleksexpansion.storage.copper.name=Block of Copper
+tile.thiccmaleksexpansion.storage.electrum.name=Block of Electrum
+tile.thiccmaleksexpansion.storage.enderium.name=Block of Enderium
+tile.thiccmaleksexpansion.storage.invar.name=Block of Invar
+tile.thiccmaleksexpansion.storage.iridium.name=Block of Iridium
+tile.thiccmaleksexpansion.storage.lead.name=Block of Lead
+tile.thiccmaleksexpansion.storage.lumium.name=Block of Lumium
+tile.thiccmaleksexpansion.storage.mithril.name=Block of Mana Infused Metal
+tile.thiccmaleksexpansion.storage.nickel.name=Block of Nickel
+tile.thiccmaleksexpansion.storage.platinum.name=Block of Platinum
+tile.thiccmaleksexpansion.storage.signalum.name=Block of Signalum
+tile.thiccmaleksexpansion.storage.silver.name=Block of Silver
+tile.thiccmaleksexpansion.storage.steel.name=Block of Steel
+tile.thiccmaleksexpansion.storage.tin.name=Block of Tin

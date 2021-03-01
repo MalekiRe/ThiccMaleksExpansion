@@ -1,0 +1,41 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube_all",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"crude_oil_sand": {
+				"textures": {
+					"all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_sand"
+				}
+			},
+			"crude_oil_red_sand": {
+				"textures": {
+					"all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_red_sand"
+				}
+			},
+			"crude_oil_gravel": {
+				"textures": {
+					"all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_gravel"
+				}
+			},
+			"redstone": {
+				"textures": {
+					"all": "thermalfoundation:blocks/ore/ore_fluid_redstone"
+				}
+			},
+			"glowstone": {
+				"textures": {
+					"all": "thermalfoundation:blocks/ore/ore_fluid_glowstone"
+				}
+			},
+			"ender": {
+				"textures": {
+					"all": "thermalfoundation:blocks/ore/ore_fluid_ender"
+				}
+			}
+		}
+	}
+}

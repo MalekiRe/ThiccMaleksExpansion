@@ -1,0 +1,79 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		},
+		"transform": "forge:default-item"
+	},
+	"variants": {
+		"type": {
+			"wrench0": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/wrench_0"
+				},
+				"transform": "forge:default-tool"
+			},
+			"wrench1": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/wrench_1"
+				},
+				"transform": "forge:default-tool"
+			},
+			"wrench2": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/wrench_2"
+				},
+				"transform": "forge:default-tool"
+			},
+			"wrench3": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/wrench_3"
+				},
+				"transform": "forge:default-tool"
+			},
+			"wrench4": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/wrench_4"
+				},
+				"transform": "forge:default-tool"
+			},
+			"multimeter": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/multimeter"
+				}
+			},
+			"lexicon": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/tome_lexicon"
+				}
+			},
+			"experience": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/tome_experience"
+				}
+			},
+			"lock": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/lock"
+				}
+			},
+			"schematic": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/schematic"
+				}
+			},
+			"redprint": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/redprint"
+				}
+			},
+			"enderprint": {
+				"textures": {
+					"layer0": "thermalfoundation:items/util/enderprint"
+				}
+			}
+		}
+	}
+}

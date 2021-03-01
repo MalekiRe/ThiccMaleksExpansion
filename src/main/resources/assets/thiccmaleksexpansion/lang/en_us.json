@@ -1,0 +1,10 @@
+{
+  "item.thiccmaleksexpansion.ingot.copper_ingot" : "Copper Ingot",
+  "item.thiccmaleksexpansion.ingot.tin_ingot" : "Tin Ingot",
+  "item.thiccmaleksexpansion.ingot.nickel_ingot" : "Nickel Ingot",
+  "item.thiccmaleksexpansion.ingot.lead_ingot" : "Lead Ingot",
+  "item.thiccmaleksexpansion.ingot.silver_ingot" : "Silver Ingot",
+  "item.thiccmaleksexpansion.ingot.electrum_ingot" : "Electrum Ingot",
+  "item.thiccmaleksexpansion.ingot.invar_ingot" : "Invar Ingot",
+  "itemGroup.thiccmaleksexpansion.resources_group" : "Thicc Malek's Resources"
+}
