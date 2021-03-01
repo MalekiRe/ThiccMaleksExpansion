@@ -5,6 +5,15 @@
   "item.thiccmaleksexpansion.ingot.lead_ingot" : "Lead Ingot",
   "item.thiccmaleksexpansion.ingot.silver_ingot" : "Silver Ingot",
   "item.thiccmaleksexpansion.ingot.electrum_ingot" : "Electrum Ingot",
-  "item.thiccmaleksexpansion.ingot.invar_ingot" : "Invar Ingot",
+  "item.thiccmaleksexpansion.ingot.aluminum_ingot" : "Aluminum Ingot",
+  "item.thiccmaleksexpansion.ingot.bronze_ingot" : "Bronze Ingot",
+  "item.thiccmaleksexpansion.ingot.constantan_ingot" : "Constantan Ingot",
+  "item.thiccmaleksexpansion.ingot.enderium_ingot" : "Enderium Ingot",
+  "item.thiccmaleksexpansion.ingot.iridium_ingot" : "Iridium Ingot",
+  "item.thiccmaleksexpansion.ingot.lumium_ingot" : "Lumium Ingot",
+  "item.thiccmaleksexpansion.ingot.mithril_ingot" : "Mithril Ingot",
+  "item.thiccmaleksexpansion.ingot.platinum_ingot" : "Platinum Ingot",
+  "item.thiccmaleksexpansion.ingot.signalum_ingot" : "Signalum Ingot",
+  "item.thiccmaleksexpansion.ingot.steel_ingot" : "Steel Ingot",
   "itemGroup.thiccmaleksexpansion.resources_group" : "Thicc Malek's Resources"
 }

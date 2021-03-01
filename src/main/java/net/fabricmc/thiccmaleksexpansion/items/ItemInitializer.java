@@ -15,19 +15,12 @@ public class ItemInitializer {
 
     public ItemInitializer()
     {
-        String[] ingots = {"copper_ingot", "tin_ingot", "silver_ingot", "lead_ingot", "invar_ingot", "nickel_ingot", "electrum_ingot"};
+        String[] ingots = {"copper_ingot", "tin_ingot", "silver_ingot", "lead_ingot", "invar_ingot", "nickel_ingot", "electrum_ingot", "aluminum_ingot", "bronze_ingot",
+        "constantan_ingot", "enderium_ingot", "iridium_ingot", "lumium_ingot", "mithril_ingot",
+        "platinum_ingot", "signalum_ingot", "steel_ingot"};
         for(String s : ingots)
             addIngot(s);
 
-        /*
-        items.add(new ItemHelper(copper_ingot, "ingot/copper_ingot"));
-        items.add(new ItemHelper(new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)), "ingot/tin_ingot"));
-        items.add(new ItemHelper(new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)), "ingot/silver_ingot"));
-        items.add(new ItemHelper(new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)), "ingot/lead_ingot"));
-        items.add(new ItemHelper(new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)), "ingot/invar_ingot"));
-        items.add(new ItemHelper(new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)), "ingot/electrum_ingot"));
-        items.add(new ItemHelper(new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)), "ingot/nickel_ingot"));
-        //net.minecraft.util.registry.Registry.ITEM, new Identifier("thiccmaleksexpansion", "copper_ingot"), copperIngot);*/
 
     }
     public void addIngot(String name) {
