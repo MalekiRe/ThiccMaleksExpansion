@@ -14,6 +14,15 @@
   "item.thiccmaleksexpansion.ingot.mithril_ingot" : "Mithril Ingot",
   "item.thiccmaleksexpansion.ingot.platinum_ingot" : "Platinum Ingot",
   "item.thiccmaleksexpansion.ingot.signalum_ingot" : "Signalum Ingot",
-  "item.thiccmaleksexpansion.ingot.steel_ingot" : "Steel Ingot",
+  "block.thiccmaleksexpansion.ingot.steel_ingot" : "Steel Ingot",
+  "block.thiccmaleksexpansion.ore.copper_ore" : "Copper Ore",
+  "block.thiccmaleksexpansion.ore.tin_ore" : "Tin Ore",
+  "block.thiccmaleksexpansion.ore.nickel_ore" : "Nickel Ore",
+  "block.thiccmaleksexpansion.ore.lead_ore" : "Lead Ore",
+  "block.thiccmaleksexpansion.ore.silver_ore" : "Silver Ore",
+  "block.thiccmaleksexpansion.ore.aluminum_ore" : "Aluminum Ore",
+  "block.thiccmaleksexpansion.ore.iridium_ore" : "Iridium Ore",
+  "block.thiccmaleksexpansion.ore.mithril_ore" : "Mithril Ore",
+  "block.thiccmaleksexpansion.ore.platinum_ore" : "Platinum Ore",
   "itemGroup.thiccmaleksexpansion.resources_group" : "Thicc Malek's Resources"
 }
